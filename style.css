@@ -26,7 +26,6 @@ html {
     padding-bottom: 20px;
  }
 
-
  .dotcolour{
     color: #1abc9c;
  }
@@ -50,16 +49,6 @@ html {
     display:table;
  }
 
- .background-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: #111111;
-    opacity: .7;
- }
-
  .intro {
     vertical-align: middle;
     text-align: center;
@@ -72,32 +61,19 @@ html {
 }
 
 .intro h1 {
-    font-size: 80px;
+    font-size: 70px;
+    padding-top: 15px;
 }
 
-.intro h5 {
-    color: #1abc9c;
-    font-size: 2.3rem;
-    margin-bottom: 0;
-    text-transform: uppercase;
-    letter-spacing: .3rem;
-    text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
-}
 
-.section-image span {
-    text-transform: uppercase;
-    font-size: 1.4em;
-    padding: 0 10px;
-    font-weight: 100;
-}
+@media screen and (max-width: 650px){
+    .intro h5{
+        font-size: 9px;
+    }
 
-.section-image h1 {
-    margin-top: 0;
-}
-
-.section-image p {
-    font-weight: lighter;
-    opacity: 0.9;
+    .intro h1{
+        font-size: 55px;
+    }
 }
 
 .social {
@@ -118,23 +94,6 @@ html {
   opacity: 0.6;
 }
 
-.social-footer {
-    position: block;
-    padding: 15px;
-}
-
-.social-footer a {
-    color: white;
-    text-decoration: none;
-    padding: 0.6em;
-    font-size: 1.7em;
-}
-
- .lnr {
-    font-size: 4em !important;
-    color:#fff;
- }
-
 section {
     padding-top: 100px;
     padding-bottom: 100px;
@@ -144,39 +103,14 @@ section {
     text-align: justify;
 }
 
-.section-primary {
-    border: #1abc9c;
-}
-
-.section-colour {
-    background-color: #1abc9c;
-    color: #fff;
-}
-
-.section-colour p {
-    text-align: justify;
-}
 
 .section-heading .lead, .section-heading h2 {
     text-align: center;
 }
 
-.section-colour {
-    border: #fff;
-}
-
-.section-colour hr {
-    border-top: 5px solid #fff;
- }
-
 #skills {
     background-color: darkslategray;
     height: auto;
-}
-
-#gap{
-    height: 2vh;
-    background-color: white;
 }
 
 #projects{
@@ -201,11 +135,11 @@ section {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   }
 
-  .incontainer {
+  .container {
     padding: 0 16px;
   }
 
-  .incontainer::after, .row::after {
+  .container::after, .row::after {
     content: "";
     clear: both;
     display: table;
@@ -216,7 +150,6 @@ section {
     outline: 0;
     display: inline-block;
     padding: 8px;
-    color: white;
     background-color: #000;
     text-align: center;
     cursor: pointer;
@@ -224,8 +157,13 @@ section {
   }
   
   .button:hover {
-    background-color: #555;
+    background-color: lightgrey;
+    border: black 4px solid ;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
   }
+
 
   .flip-card {
     background-color: transparent;
@@ -311,8 +249,6 @@ section {
     margin-bottom: 25px;
     position: relative;
 }
-
-
 
 @media (max-width: 767px) {
     .timeline .event, .timeline .inevent {
@@ -402,12 +338,6 @@ footer {
     background-color: darkslategray;
     color: #fff;
     padding: 50px 0;
-
-}
-
-footer p {
-    padding: 15px;
-    opacity: 0.8;
 }
 
 .mouse-icon {
@@ -430,7 +360,7 @@ footer p {
             animation-play-state: running;
             animation-timing-function: linear;
         }
-        .mouse-icon .scroll {
+ .mouse-icon .scroll {
             background: #fff none repeat scroll 0 0;
             border-radius: 10px;
             height: 10px;
@@ -471,53 +401,3 @@ footer p {
             padding: 30px 0px;
         }
 
-@media (max-width: 480px) {
-    .social a {
-        padding: 0.4em;
-        font-size: 0.9em;
-    }
-
-    .social-footer {
-        text-align: center;
-        position:block;
-        text-align: center;
-    }
-
-    .social-footer a {
-        padding: 0.3em;
-        font-size: 1.6em;
-
-    }
-
-    .intro-desc {
-        font-size: 3px;
-    }
-
-    .section-image span {
-        font-size: 1em;
-        padding: 0 1px;
-
-}
-
-    .intro h1 {
-        font-size: 50px;
-        padding-top: 15px;
-    }
-
-    footer {
-        text-align: center;
-        padding-bottom: 100px;
-    }
-
-}
-
-@media (max-width: 991px) {
-    .social-footer {
-        text-align: center;
-    }
-
-    footer p {
-    text-align: center;
-    }
-
-}
