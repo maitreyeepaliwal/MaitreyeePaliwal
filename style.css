@@ -12,6 +12,12 @@ html {
   width: 100%;
  }
 
+ section{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+ }
+
  h1 {
     font-weight: bold;
  }
