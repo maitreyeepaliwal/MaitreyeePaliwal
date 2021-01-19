@@ -3,19 +3,24 @@ html {
     margin: 0;
   padding: 0;
   width:100%;
+  left: 0%;
+  right: 0%;
  }
-
  body {
     font-family: 'Source Sans Pro', sans-serif;
     margin: 0;
   padding: 0;
   width: 100%;
+  left: 0%;
+  right: 0%;
  }
-
+ 
  section{
     margin: 0;
     padding: 0;
     width: 100%;
+    left: 0%;
+    right: 0%;
  }
 
  h1 {
