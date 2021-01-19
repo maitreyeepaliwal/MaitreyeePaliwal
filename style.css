@@ -113,6 +113,12 @@ html {
   opacity: 0.6;
 }
 
+@media (max-width: 767px){
+    .social{
+        size: 40px;
+    }
+}
+
 section {
     padding-top: 100px;
     padding-bottom: 100px;
