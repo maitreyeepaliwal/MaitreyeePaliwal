@@ -113,7 +113,7 @@ html {
   opacity: 0.6;
 }
 
-@media (max-width: 767px){
+@media screen and (max-width: 767px){
     .social{
         size: 40px;
     }
