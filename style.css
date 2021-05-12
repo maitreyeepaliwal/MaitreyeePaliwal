@@ -826,5 +826,10 @@ footer {
             color: #b9134f;
           }
 
-
-         
+          #centerall{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            align-items: center;
+  transform: translate(-50%, -50%);
+          }
