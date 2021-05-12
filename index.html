@@ -13,7 +13,7 @@
     <link href="https://fontawesome.com/icons/hackerrank" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
         integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-        
+        <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 <link href="https://www.cssscript.com/wp-includes/css/sticky.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
@@ -603,7 +603,7 @@
                           <span>SEND YOUR</span>
                           <span>MESSAGE</span>
                         </div>
-                        <div class="app-contact">Mail ID: maitreyeepaliwal@gmail.com</div>
+                        <div class="app-contact">You can also mail on 'maitreyeepaliwal@gmail.com'</div>
                       </div>
                       <div class="screen-body-item">
                         <div class="app-form">
@@ -624,7 +624,7 @@
                                 <textarea class="app-form-control" style="resize: none;" placeholder="MESSAGE *" type="text" name="message" required></textarea>
                             </div>
                             <div class="app-form-group buttons">
-                                <button class="app-form-button" type="submit">Send</button>
+                                <button class="app-form-button" type="submit" onclick="Sent" >Send</button>
                             </div>
                            </form>
                         </div>
@@ -637,8 +637,6 @@
       </div>
       </div>
       
-      <!-- Use any element to open/show the overlay navigation menu -->
-      
 
       <script>
         function openNav() {
@@ -648,6 +646,15 @@
         function closeNav() {
             document.getElementById("background").style.height = 0;
           document.getElementById("myNav").style.height = 0;
+        }
+
+        function sent(){
+            swal({
+  title: "Sent!",
+  text: "Recieved your msg,..Replying Soon!!",
+  icon: "success",
+  button: "Back to Portfolio?",
+});
         }
         </script>
     <footer class="footer">
