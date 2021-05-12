@@ -610,7 +610,7 @@
                             <form action="https://formsubmit.co/maitreyeepaliwal@gmail.com" method="POST" autocomplete="off">
                                 <input type="hidden" name="_subject" value="New Mail from portfolio!">
                                 <input type="hidden" name="_captcha" value="false">
-                                <input type="hidden" name="_next" onload="Sent()" value="https://maitreyeepaliwal.github.io/MaitreyeePaliwal/">
+                                <input type="hidden" name="_next" value="javascript:void(0);" onload="sent()">
                                 <div class="app-form-group">
                                 <input class="app-form-control" placeholder="NAME *" type="text" name="name" required style="text-transform: uppercase;">
                             </div>
@@ -624,7 +624,7 @@
                                 <textarea class="app-form-control" style="resize: none;" placeholder="MESSAGE *" type="text" name="message" required></textarea>
                             </div>
                             <div class="app-form-group buttons">
-                                <button class="app-form-button" type="submit" onclick="Sent()" >Send</button>
+                                <button class="app-form-button" type="submit" onclick="sent()" >Send</button>
                             </div>
                            </form>
                         </div>
