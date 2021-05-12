@@ -610,6 +610,7 @@
                             <form action="https://formsubmit.co/maitreyeepaliwal@gmail.com" method="POST" autocomplete="off">
                                 <input type="hidden" name="_subject" value="New Mail from portfolio!">
                                 <input type="hidden" name="_captcha" value="false">
+                                <input type="hidden" name="_next" value="https://maitreyeepaliwal.github.io/MaitreyeePaliwal/thanks.html">
                                 <div class="app-form-group">
                                 <input class="app-form-control" placeholder="NAME *" type="text" name="name" required style="text-transform: uppercase;">
                             </div>
@@ -623,7 +624,7 @@
                                 <textarea class="app-form-control" style="resize: none;" placeholder="MESSAGE *" type="text" name="message" required></textarea>
                             </div>
                             <div class="app-form-group buttons">
-                                <button class="app-form-button" type="submit" onclick="sent()" >Send</button>
+                                <button class="app-form-button" type="submit" >Send</button>
                             </div>
                            </form>
                         </div>
@@ -647,14 +648,6 @@
           document.getElementById("myNav").style.height = 0;
         }
 
-        function sent(){
-            swal({
-  title: "Sent!",
-  text: "Recieved your msg,..Replying Soon!!",
-  icon: "success",
-  button: "Back to Portfolio?",
-});
-        }
         </script>
     <footer class="footer">
         <div class="container">
