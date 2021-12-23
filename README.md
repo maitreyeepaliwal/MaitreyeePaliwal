@@ -11,8 +11,8 @@
 
 <br/>
 
-#### *My GitHub Account statistics:* <br/> <br/>
-![My profile views:](https://komarev.com/ghpvc/?username=maitreyeepaliwal&color=blueviolet) <br/><br/>
+#### *My GitHub Account statistics:* <br/>
+![My profile views:](https://komarev.com/ghpvc/?username=maitreyeepaliwal&color=blueviolet) <br/>
 ![My GitHub Stats: ](https://github-readme-stats.vercel.app/api?username=maitreyeepaliwal&hide=contribs,prs,issues&show_icons=true&theme=radical) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra) <br/>
 ### <p align="center">  ⚡ Check my [portfolio](https://maitreyeepaliwal.github.io/MaitreyeePaliwal/) to know more :) <br/> </p> <br/>
