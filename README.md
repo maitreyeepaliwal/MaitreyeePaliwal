@@ -10,6 +10,7 @@
 ### <p align="center">  ⚡ Check my [portfolio](https://maitreyeepaliwal.github.io/MaitreyeePaliwal/) to know more :) <br/> </p> 
 <br/>
 
+*My GitHub Account statistics:* <br/> <br/>
 ![My GitHub Stats: ](https://github-readme-stats.vercel.app/api?username=maitreyeepaliwal&hide=contribs,prs,issues&show_icons=true&theme=radical) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra) <br/>
 ![My profile views:](https://komarev.com/ghpvc/?username=maitreyeepaliwal&color=blueviolet)
