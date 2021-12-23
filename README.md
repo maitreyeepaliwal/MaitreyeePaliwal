@@ -11,7 +11,7 @@
 <br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=maitreyeepaliwal&hide=contribs,prs,issues&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maitreyeepaliwal)
 ![](https://komarev.com/ghpvc/?username=maitreyeepaliwal&color=blueviolet)
 
 **Consider leaving a ⭐ on some of my projects if you find them interesting** :dart:
