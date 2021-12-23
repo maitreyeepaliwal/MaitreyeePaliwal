@@ -10,6 +10,6 @@
 ### <p align="center">  ⚡ Check my [portfolio](https://maitreyeepaliwal.github.io/MaitreyeePaliwal/) to know more :) <br/> </p> 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=maitreyeepaliwal&color=green)
+![](https://komarev.com/ghpvc/?username=maitreyeepaliwal&color=blueviolet)
 
 **Consider leaving a ⭐ on some of my projects if you find them interesting** :dart:
