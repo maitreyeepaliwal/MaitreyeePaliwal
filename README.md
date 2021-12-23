@@ -4,7 +4,7 @@
 * :desktop_computer:	I'm a Software Developer from India.
 * :rocket: I'm a Competitive Coder.
 * :woman_student: I’m a final year B.Tech undergraduate from VIT, Vellore.
-* :books: I'm currently learning Angular JS
+* :books: I'm currently learning Angular.
 * :telescope: I’m currently looking for collaborating on some really interesting web dev projects.
 * :art: I'm an art lover. Visit [here](https://www.instagram.com/arts_shack/) to check some of my works. 
 
