@@ -9,7 +9,8 @@
 
 ### <p align="center">  ⚡ Check my [portfolio](https://maitreyeepaliwal.github.io/MaitreyeePaliwal/) to know more :) <br/> </p> 
 <br/>
-![](https://github-readme-stats.vercel.app/api?username=maitreyeepaliwal)
+
+[](https://github-readme-stats.vercel.app/api?username=maitreyeepaliwal)
 
 ![](https://komarev.com/ghpvc/?username=maitreyeepaliwal&color=blueviolet)
 
