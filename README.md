@@ -16,5 +16,5 @@
 ![My GitHub Stats: ](https://github-readme-stats.vercel.app/api?username=maitreyeepaliwal&hide=contribs,prs,issues&show_icons=true&theme=radical) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra) <br/>
 ### <p align="center">  ⚡ Check my [portfolio](https://maitreyeepaliwal.github.io/MaitreyeePaliwal/) to know more :) <br/> </p> <br/>
-**Consider leaving a ⭐ on some of my projects if you find them interesting** :dart:
+**Consider leaving a ⭐ on some of my projects if you find them interesting** :dart: <br/><br/>
 <a href="https://www.buymeacoffee.com/Maitreyee" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
