@@ -3,6 +3,7 @@
 ### <p align="center">  *Glad to see you here* :yellow_heart:  </p>
 * :desktop_computer:	I'm a Software Developer from India.
 * :rocket: I'm a Competitive Coder.
+* :woman_technologist: I'm a software developer intern at Siemens Digital Industries Software, Hyderabad
 * :woman_student: I’m a final year B.Tech undergraduate from VIT, Vellore.
 * :books: I'm currently learning Angular.
 * :telescope: I’m currently looking for collaborating on some really interesting web dev projects.
