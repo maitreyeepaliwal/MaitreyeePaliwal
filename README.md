@@ -10,7 +10,7 @@
 ### <p align="center">  ⚡ Check my [portfolio](https://maitreyeepaliwal.github.io/MaitreyeePaliwal/) to know more :) <br/> </p> 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=maitreyeepaliwal&hide=contribs,prs,issues&show_icons=true&theme=radical)
-![](https://komarev.com/ghpvc/?username=maitreyeepaliwal&color=blueviolet)
+![My GitHub Stats: ](https://github-readme-stats.vercel.app/api?username=maitreyeepaliwal&hide=contribs,prs,issues&show_icons=true&theme=radical) <br/>
+![My profile views: ](https://komarev.com/ghpvc/?username=maitreyeepaliwal&color=blueviolet)
 
 **Consider leaving a ⭐ on some of my projects if you find them interesting** :dart:
